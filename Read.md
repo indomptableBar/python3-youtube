@@ -8,6 +8,6 @@ Creation d'un environnement virtuel python3
 # source mon_env/bin/activate
 
 # Installation de la librairie
-# pip install yt-dlp
+<code> pip install yt-dlp </code>
 
 
