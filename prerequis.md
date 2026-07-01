@@ -1,7 +1,6 @@
-
+##
 # Prerequis pour l'utilisation du script permettant de téléchargement d'une video sur youtube.
 
-##
 # Creation d'un environnement virtuel python3
 <code>python3 -m venv mon_env</code>
 
