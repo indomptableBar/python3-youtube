@@ -1,4 +1,6 @@
 
+##
+# Prerequis pour l'utilisation du script permettant de téléchargement d'une video sur youtube.
 
 ##
 #Utilisation
